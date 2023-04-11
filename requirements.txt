@@ -1,0 +1,13 @@
+asgiref==3.6.0
+Django==4.2
+django-lint==2.0.4
+djangorestframework==3.14.0
+importlib-metadata==6.1.0
+logilab-astng==0.24.3
+logilab-common==1.9.8
+mypy-extensions==1.0.0
+pylint==0.28.0
+pytz==2023.3
+sqlparse==0.4.3
+typing_extensions==4.5.0
+zipp==3.15.0
